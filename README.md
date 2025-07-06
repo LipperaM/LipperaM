@@ -2,7 +2,7 @@
 
 # About
 
-Hi, I’m Martín Lippera, a Software Engineer specializing in Backend Development with expertise in fullstack technologies.
+Hi, I’m Martín Lippera, a Computer Engineering student specializing in Backend Development with expertise in fullstack technologies.
 
 ## Technologies & Tools
 
@@ -41,7 +41,7 @@ Feel free to check my repositories and connect with me!
 
 # Sobre mi
 
-Hola, soy Martín Lippera, Ingeniero de Software especializado en desarrollo backend con experiencia en tecnologías fullstack.
+Hola, soy Martín Lippera, estudiante de Ingenieria Informática especializado en desarrollo backend con experiencia en tecnologías fullstack.
 
 ## Tecnologías y Herramientas
 
