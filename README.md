@@ -25,6 +25,7 @@ Hi, I’m Martín Lippera, a Computer Engineering student specializing in Backen
 
 ### DevOps & Deployment
 
+- Cloudflare Tunnels (Secure exposure of local services to the Internet)
 - Docker & Docker Compose
 - Traefik (Reverse Proxy, SSL certificates with Let's Encrypt)
 - Nginx (Static file serving)
