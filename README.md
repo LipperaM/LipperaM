@@ -1,7 +1,7 @@
 
 # About
 
-Hi, I’m Martín Lippera, a Computer Engineering student specializing in Backend Development with knowledge in fullstack technologies.
+Hi, I’m Martín Lippera, a Computer Engineering student with a focus on backend development and experience building fullstack applications.
 
 ## Technologies & Tools
 
@@ -17,20 +17,28 @@ Hi, I’m Martín Lippera, a Computer Engineering student specializing in Backen
 - Entity Framework Core
 - Swagger UI
 - JWT Authentication
-- Bcrypt
+- Password hashing (Bcrypt)
 
 ### Database
 
 - MySQL
+- PostgreSQL
+
+### Caching
+
+- Redis (response/object caching with expiration policies)
 
 ### DevOps & Deployment
 
-- Cloudflare Tunnels (Secure exposure of local services to the Internet)
 - Docker & Docker Compose
+- Cloudflare Tunnels (Secure exposure of local services to the Internet)
 - Traefik (Reverse Proxy, SSL certificates with Let's Encrypt)
 - Nginx (Static file serving)
-- xUnit (Testing)
 - VPS deployment
+
+### Testing
+
+- xUnit
 
 ---
 
